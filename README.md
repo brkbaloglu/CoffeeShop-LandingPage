@@ -1,1 +1,1 @@
-Coffee Shop Landing Page
+Coffee Shop Landing Website Page
